@@ -2,4 +2,8 @@ body{
     background-color:#12e5fc ;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
-}
+    line-height: 1.6;
+    }
+    header{
+     background:linear-gradient(45deg,red, orange, yellow, green, blue, indigo, purple);
+    }
