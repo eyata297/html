@@ -1,13 +1,13 @@
 body{
-    background-color:#12e5fc ;
+    background: linear-gradient(to bottom,#ffd900,#50C878,#E0115F,#0f52ba,#C0C0C0);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     line-height: 1.6;
     list-style: none;
     }
     header{
-     background:linear-gradient(45deg,red, orange, yellow, green, blue, indigo, purple);
-     color: white;
+     background(45deg,red, orange, yellow, green, blue, indigo, purple);
+    background-color: rgb(251, 255, 0);
      text-align: center;
      padding: 20px;
     }
