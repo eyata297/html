@@ -1,15 +1,17 @@
 body{
-    background: linear-gradient(to bottom,#ffd900,#50C878,#E0115F,#0f52ba,#C0C0C0);
+    background: linear-gradient(to right,red,orange,yellow,green,blue,indigo,purple);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     line-height: 1.6;
     list-style: none;
     }
     header{
-     background(45deg,red, orange, yellow, green, blue, indigo, purple);
-    background-color: rgb(251, 255, 0);
+     background:(45deg,red, orange, yellow, green, blue, indigo, purple);
+    background-color:#f5abab ;
      text-align: center;
      padding: 20px;
+     border: 3px solid white;
+     border-radius: 15px;
     }
     header h1{
         font-family: Arial, Helvetica, sans-serif ;
