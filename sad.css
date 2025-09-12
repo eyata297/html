@@ -1,0 +1,12 @@
+body{
+    background:linear-gradient(to bottom,red,orange,yellow,green,blue,indigo,purple);
+    height: 100vh;
+}
+div{
+    background-color: fuchsia;
+    width: 350px;
+    margin: auto;
+    border-radius: 15%;
+    text-align: center;
+    
+}
