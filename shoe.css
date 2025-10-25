@@ -1,0 +1,39 @@
+body{
+    background: violet;
+    font-family: cursive;
+    margin: 0;
+}
+nav{
+    position: sticky;
+    top: 0;
+    background-color: skyblue;
+    color: white;
+    padding: 0 30px;
+    height: 60px;
+    box-shadow: 0 2px 5px black;
+    z-index: 1000;
+
+}
+.logo{
+  float: left;
+}
+.logo img{
+    height: 40px;
+    width: auto;
+    margin-top: 10px                                                                                                                                  ;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    float: right;
+}
+ul li{
+    float: left;
+    margin-left: 20px;
+}
+ul li a{
+   text-decoration: none; 
+   color: white;
+   font-size: 16px;
+}
