@@ -37,3 +37,27 @@ nav a{
     font-size: 16px;
     color: white;
 }
+.hero{
+    background: linear-gradient(to right,red ,orange,yellow,green,blue);
+    color: white;
+    text-align: center;
+    padding: 80px 20px ;
+}
+.hero h1 {
+font-size: 42px;
+margin-bottom: 10px;
+}
+.hero p{
+    font-size: 20px;
+    margin-bottom: 20px;
+
+}
+.btn{
+    background: white;
+    color:  violet;
+    text-decoration: none;
+    text-transform: capitalize;
+    padding: 10px 25px;
+    border-radius: 25px;
+    font-weight: bold;
+}
